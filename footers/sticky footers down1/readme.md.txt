@@ -1,0 +1,1 @@
+Sticky footers 1 option
